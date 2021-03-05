@@ -1,2 +1,2 @@
 # remote-sensing
-a final project on remote sensing final, using JavaScript in Google Earth Engine
+part of the final project on remote sensing, using JavaScript on Google Earth Engine
